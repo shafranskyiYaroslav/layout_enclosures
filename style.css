@@ -1,0 +1,41 @@
+body {
+  display: block;
+  background-color: #000;
+}
+
+div {
+  border: 1px solid #e75551;
+}
+
+.orange {
+  background-color: #ffa500;
+  height: 150px;
+  width: 326px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.blue {
+  background-color: #308dc0;
+  width: 348px;
+  height: 172px;
+  position: relative;
+  margin: 20px 0 40px 12px;
+}
+
+.white {
+  background-color: #ddd;
+  display: block;
+  width: 304px;
+  height: 128px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p {
+  margin: 10px;
+}
